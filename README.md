@@ -9,7 +9,7 @@ But it is notoriously difficult to get rid of YouTube and - and - it is genuinel
 I wanted to get Graphene OS originally but Pixels are pretty expensive, I got a different phone at one point, one Samsung Galaxy version, I think - a supported version but then it was a later model and had a keyed bootloader so you couldn't sideload. Irritating, that eventually died, my friend gave me a Realme One + - great phone, lasted years, died to a fall.
 Then I went and bought a Fairphone 6 with e/OS preinstalled. €600. I'm not super into phones and cameras and stuff but it hasn't let me down yet and I've treated it quite roughly. I do miss having a 3.5mm stereo jack.
 
-Not only is e/OS Android without google - with support and updates - but it has various menu features that let you do certain things like turn off the more invasive parts of YouTube.
+Not only is e/OS Android without google - with support and updates - but when you use Brave browser, you can go into the settings and turn off the more invasive parts of YouTube such as shorts.
 
 This is what my YouTube looks like on the phone.
 
