@@ -13,7 +13,7 @@ Not only is e/OS Android without google - with support and updates - but it has 
 
 This is what my YouTube looks like on the phone.
 
-![YouTube Screenshot](screenshot.png)
+![YouTube Screenshot](Screenshot.png)
 
 What I learned is that the suggestion algorithm seems to be the main problem for me. There's always the next thing to look at. As it is now, I can search for whatever I want - it's all there but it's on pull instead of push.
 
